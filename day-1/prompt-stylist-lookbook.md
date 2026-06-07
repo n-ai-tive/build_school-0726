@@ -1,4 +1,5 @@
-# Prompt 1 — The Editorial Lookbook Prompt
+# Prompt 1 — The Personal Stylist
+Lookbook Prompt
 
 **Use:** Upload your selfie to ChatGPT, then paste this prompt.
 
