@@ -5,22 +5,21 @@ Today we will set up our personal infrastructure and go over some of the fundame
 ---
 
 ## Agenda
-- Structure of the day and week
-- The primary intention of N<AI>TIVE
+- Introductions
+- Office tour and rules
+- Daily and weekly schedule overview
+- The intention of N<AI>TIVE Build School
 - The Build School rubric
-- Getting set up
-- Fundamentals and practice
+- Overview of AI work
+- Good and bad AI work patterns
+- Foundations, fundamentals, and practice
 - End-of-day retrospective
 - Run
 
 ---
 
-## Credentials Worksheet
-Here is a link to the Google Sheet you can use to keep track of your various AI credentials and API Keys. 
+## Intention of Build School
+By the end of the week, you will be able to more effectively work with AI tools and services. 
 
-1. Make a copy of this Sheet and save it to you Builder_School Folder in G-Drive.
-2. Read the instructions in the light blue area, then you can delete that section if you’d like.
-3. Add your own credentials as you set them up.
-4. Use this for accounts and API keys. 
+---
 
-https://docs.google.com/spreadsheets/d/1YN0jr1WfqYe7WmAUIXWtBxCoY6aSaRF4vQWKJZSiKGQ/edit?usp=sharing
